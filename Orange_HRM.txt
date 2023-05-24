@@ -1,3 +1,4 @@
 1)Enther the URL
-2)Enter UName and Pwd
+2)Enter UserName and Password
 3)Click Login
+4)Check the credentials are valid or not
